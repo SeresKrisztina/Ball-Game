@@ -1,0 +1,10 @@
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball game.csprojAssemblyReference.cache
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball_game.Form1.resources
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball_game.Properties.Resources.resources
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball game.csproj.GenerateResource.cache
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball game.csproj.CoreCompileInputs.cache
+C:\Users\krisz\source\repos\ball game\ball game\bin\Debug\ball game.exe.config
+C:\Users\krisz\source\repos\ball game\ball game\bin\Debug\ball game.exe
+C:\Users\krisz\source\repos\ball game\ball game\bin\Debug\ball game.pdb
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball game.exe
+C:\Users\krisz\source\repos\ball game\ball game\obj\Debug\ball game.pdb
